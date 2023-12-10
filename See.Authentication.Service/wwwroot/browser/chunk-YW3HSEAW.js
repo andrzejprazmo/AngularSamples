@@ -1,0 +1,1 @@
+import{Ja as a,Ka as i,Oa as r,Sa as s,X as o}from"./chunk-2DWBKVJN.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-not-found"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,f){n&1&&(a(0,"p"),r(1,"not-found works!"),i())}});let t=e;return t})();export{c as default};
